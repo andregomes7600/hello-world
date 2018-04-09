@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
+hi dear Planet earth.
+
 My name is André Gomes and im 19
